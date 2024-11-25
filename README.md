@@ -1,4 +1,4 @@
-# Amazon-Reviews-Sentiment-Analysis.ipynb
+# Movie-Reviews-Analysis.ipynb
 This Jupyter Notebook performs sentiment analysis on Amazon reviews. 
 The notebook might include tasks such as:
 
